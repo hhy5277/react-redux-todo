@@ -1,6 +1,9 @@
 
 ## react-redux-todo项目
 
+### 对应笔记地址：   
+https://www.yuque.com/chao99/blog/redux
+
 ### 克隆下来之后请执行:
 
  `npm install`
